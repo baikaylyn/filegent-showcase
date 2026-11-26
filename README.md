@@ -67,7 +67,21 @@ FileGent 把目录浏览做成「窗格 + 标签页」两层：一个窗口里�
 
 ## 截图
 
-界面截图整理中。四种外观与 1–4 窗格的实际画面会补到 `screenshots/`。
+**双窗格 · 纯黑**
+
+![双窗格 · 纯黑](screenshots/main-black.png)
+
+**双窗格 · 炫彩**
+
+![双窗格 · 炫彩](screenshots/main-aurora.png)
+
+**双窗格 · 浅色**
+
+![双窗格 · 浅色](screenshots/main-light.png)
+
+**四窗格 · 2×2 井字**
+
+![四窗格](screenshots/panes-4-black.png)
 
 ## 系统要求
 
